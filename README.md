@@ -8,6 +8,7 @@ My name is Krzysztof and I'm a student of Business Informatics at the University
 * VBA 
 * C++ 
 * PHP 
+* SQL
 
 but mainly I'm focused on getting experience in .NET.
 
