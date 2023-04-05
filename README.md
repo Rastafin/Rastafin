@@ -1,4 +1,33 @@
-### Hi there 👋
+# Hi there 👋 Welcome to My Programming Portfolio
+
+
+My name is Krzysztof and I'm a student of Business Informatics at the University of Lodz. I have worked with various programming languages, including 
+* C# 
+* CSS 
+* HTML 
+* VBA 
+* C++ 
+* PHP 
+
+but mainly I'm focused on getting experience in .NET.
+
+
+
+# Projects
+
+Here are some of the projects I have worked on:
+
+
+# Skills
+
+Here are some of the skills I have developed through my programming projects and coursework:
+
+:pushpin: Object-oriented programming in C#
+
+:pushpin: Web development using CSS, HTML, and PHP
+
+:pushpin: Database design and management using SQL
+
 
 <!--
 **Rastafin/Rastafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
