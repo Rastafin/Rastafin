@@ -12,12 +12,7 @@ My name is Krzysztof and I'm a student of Business Informatics at the University
 
 but mainly I'm focused on getting experience in .NET.
 
-
-
-# Projects
-
-Here are some of the projects I have worked on:
-
+<br>
 
 # Skills
 
@@ -28,6 +23,12 @@ Here are some of the skills I have developed through my programming projects and
 :pushpin: Web development using CSS, HTML, and PHP
 
 :pushpin: Database design and management using SQL
+
+<br>
+
+# Projects
+
+Below you can take a look at my projects :star:
 
 
 <!--
