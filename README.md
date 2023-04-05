@@ -22,7 +22,7 @@ Here are some of the projects I have worked on:
 
 Here are some of the skills I have developed through my programming projects and coursework:
 
-:pushpin: Object-oriented programming in C#
+:pushpin: Object-oriented programming and unit testing in C#
 
 :pushpin: Web development using CSS, HTML, and PHP
 
