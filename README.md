@@ -6,6 +6,7 @@ My name is Krzysztof and I'm a student of Business Informatics at the University
 * CSS 
 * HTML 
 * VBA 
+* Python
 * C++ 
 * PHP 
 * SQL
