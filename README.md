@@ -3,6 +3,7 @@
 
 My name is Krzysztof and I'm a student of Business Informatics at the University of Lodz. I have worked with various programming languages, including 
 * C# 
+* JAVA
 * CSS 
 * HTML 
 * VBA 
@@ -19,7 +20,7 @@ but mainly I'm focused on getting experience in .NET.
 
 Here are some of the skills I have developed through my programming projects and coursework:
 
-:pushpin: Object-oriented programming and unit testing in C#
+:pushpin: Object-oriented programming and unit testing in C# and JAVA
 
 :pushpin: Web development using CSS, HTML, and PHP
 
