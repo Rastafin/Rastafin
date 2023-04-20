@@ -12,7 +12,7 @@ My name is Krzysztof and I'm a student of Business Informatics at the University
 * PHP 
 * SQL
 
-but mainly I'm focused on getting experience in .NET.
+but mainly I'm focused on getting experience in .NET and Java.
 
 <br>
 
