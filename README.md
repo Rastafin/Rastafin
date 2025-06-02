@@ -1,49 +1,26 @@
-# Hi there 👋 Welcome to My Programming Portfolio
+# 👋 Hi there! Welcome to my GitHub portfolio
 
+I'm **Krzysztof**, a master's student in Computer Science at the University of Łódź and a .NET Developer.  
+I focus on building modern web and desktop applications using **C#**, **ASP.NET Core**, **Blazor**, and **WPF**, working in real commercial projects with **DDD**, **CQRS**, and **Entity Framework Core**.
 
-My name is Krzysztof and I'm a student of Business Informatics at the University of Lodz. I have worked with various programming languages, including 
-* C# 
-* JAVA
-* CSS 
-* HTML 
-* VBA 
-* Python
-* C++ 
-* PHP 
-* SQL
+I'm passionate about clean architecture, good design patterns (MVVM, Factory, Repository), and continuously growing as a developer.
 
-but mainly I'm focused on getting experience in .NET and Java.
+---
 
-<br>
+## 🛠️ Tech Stack & Skills
 
-# Skills
+Here are some of the technologies and concepts I actively work with:
 
-Here are some of the skills I have developed through my programming projects and coursework:
+- **C#, ASP.NET Core, Blazor, WPF**
+- **Entity Framework Core, MediatR, SQL**
+- **MVVM, DDD, CQRS, Dependency Injection**
+- **Angular**
+- **Git, SCRUM, Hangfire, Telerik UI**
 
-:pushpin: Object-oriented programming and unit testing in C# and JAVA
+---
 
-:pushpin: Web development using CSS, HTML, and PHP
+## 📂 Projects
 
-:pushpin: Database design and management using SQL
+This profile includes some of my university and personal projects, with a focus on .NET technologies.  
 
-<br>
-
-# Projects
-
-Below you can take a look at my projects :star:
-
-
-<!--
-**Rastafin/Rastafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
